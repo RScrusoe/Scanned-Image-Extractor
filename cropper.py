@@ -1,5 +1,5 @@
 import crop
-for i in range(21,29):
+for i in range(0,29):
      str_i = str(i)
      if i<10:
              str_i = "00"+str(i)+".jpg"
